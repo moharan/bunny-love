@@ -1,9 +1,56 @@
 body {
-	background-color: #037f99;
+	background-color: #ecf7fb;
+	color: white;
+	margin: 0 auto;
+	padding: 0;
 }
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+/* elementos nav*/
+ul li {
+
+}
+ul li a {
+
+}
+ul li a:hover {
+
+}
+ul li.detalle {
+    /*display: none;*/
+}
+ul li.normal {
+    display: inline-block;
+}
+
+
+/* Para maquetear Website*/
 .rojo {
 	background-color: red;
 }
 .azul {
 	background-color: blue;
 }
+/*logo*/
+.menu {
+	
+}
+.logo {
+	font-size: 25px;
+	font-weight: bolder;
+	color: white;
+	text-align: left;
+	font-family: 'Baloo Paaji', cursive;
+}
+.logo span {
+	color: #ff7673;
+	font-family: 'Baloo Paaji', cursive;
+}
+footer {
+	background-color: #037f99;
+}
+
